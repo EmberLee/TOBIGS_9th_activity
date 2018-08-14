@@ -7,3 +7,10 @@
 * All assignments about regular lectures proceeded for 10 weeks
 * Some parts of source codes regarding regular lectures
 * Lecture files and source codes regarding Image-deep learning seminar
+
+## Dependencies
+* [Python 2.7 or 3.5+](https://www.anaconda.com/download/)
+* [R 3.0.3+](http://www.cran.r-project.org/)
+
+## Author
+* Inggeol Lee/ [@ingulbull](https://github.com/ingulbull)
